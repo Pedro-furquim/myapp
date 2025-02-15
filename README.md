@@ -1,16 +1,14 @@
-# myapp
+app-listas-planteas
+🌍 Lista de Planetas
 
-A new Flutter project.
+Bem-vindo ao projeto Lista de Planetas, um site que permite cadastrar, visualizar, editar e excluir informações sobre planetas. 🚀 Funcionalidades
 
-## Getting Started
+📌 Criação
 
-This project is a starting point for a Flutter application.
+Permite o cadastro de novos planetas.
 
-A few resources to get you started if this is your first Flutter project:
+Nome do planeta.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Distância do sol (em unidades astronômicas).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tamanho (em quilômetros).
